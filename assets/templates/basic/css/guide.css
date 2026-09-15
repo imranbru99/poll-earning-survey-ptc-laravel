@@ -1,0 +1,28 @@
+
+.accordion-item,accordion-header
+{
+    background-color: white;
+    border:none !important;
+    padding: 0 !important;
+    margin-bottom: auto;
+}
+.accordion-item
+{
+    box-shadow: 0 2px 20px 0 rgba(110,130,208,.18);
+}
+.accordion-button collapsed
+{
+    width:100%;
+    height: 90px;
+    color: black;
+    text-align: left;
+    text-decoration: none;
+}
+.accordion-button collapsed.collapsed:after
+{
+    content: '\002B';
+}
+.accordion-button collapsed.collapsed:before
+{
+    content: '\002B';
+}

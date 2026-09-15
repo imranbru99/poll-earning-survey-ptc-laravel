@@ -1,0 +1,1 @@
+<div><br></div><div>Thanks For join with us. <br></div><div>Please use below code to verify your email address. <br></div><div><br></div><div>Your email verification code is:<font size="6"><b> {{$token}}</b></font></div>

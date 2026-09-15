@@ -1,0 +1,2 @@
+<div><p>
+    You have successfully reset your password.</p><p>You changed from&nbsp; IP: <b>{{$ip}}</b> using <b>{{$browser}}</b> on <b>{{$operating_system}}&nbsp;</b> on <b>{{$time}}</b></p><p><b><br></b></p><p><font color="#FF0000"><b>If you did not changed that, Please contact with us as soon as possible.</b></font><br></p></div>

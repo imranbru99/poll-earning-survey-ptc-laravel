@@ -1,0 +1,1 @@
+<div>You just Disabled Google Two Factor Authentication for Your Account.</div><div><br></div><div>Enabled at <b>{{$time}} </b>From IP: <b>{{$ip}}</b> using <b>{{$browser}}</b> on <b>{{$operating_system}} </b>.</div>
